@@ -7,6 +7,7 @@ on:
       - claude/analyze-repo-structure-ioLtJ
     paths:
       - 'interactive-course-poc/**'
+      - '.github/workflows/deploy-interactive-course.yml'
   workflow_dispatch:
 
 permissions:
