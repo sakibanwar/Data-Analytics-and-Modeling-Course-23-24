@@ -1,0 +1,8 @@
+# Table of contents
+format: jb-book
+root: intro
+chapters:
+  - file: week01/lecture
+    title: "Week 1: Python Fundamentals"
+  - file: week01/exercises
+    title: "Week 1: Exercises"
